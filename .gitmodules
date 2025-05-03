@@ -1,0 +1,6 @@
+[submodule "clients/python"]
+	path = clients/python
+	url = https://github.com/skylerknecht/messenger-client-python
+[submodule "clients/csharp"]
+	path = clients/csharp
+	url = https://github.com/skylerknecht/messenger-client-csharp
